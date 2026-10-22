@@ -2,7 +2,7 @@
  * EXTI_prog.c
  *
  * Created: 5/13/2026 8:39:27 PM
- *  Author: fathi
+ *  Author: zahra ahmed Elshafey
  */ 
 
 #include "../../LIB/BIT_MATH.h"
